@@ -1,0 +1,9 @@
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.csproj.AssemblyReference.cache
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.AssemblyInfoInputs.cache
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.AssemblyInfo.cs
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.csproj.CoreCompileInputs.cache
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkut.yildirim\OneDrive - Veripark Yazilim A.S\Desktop\TodoApp\TodoApp.API\obj\Debug\net8.0\TodoApp.API.sourcelink.json
