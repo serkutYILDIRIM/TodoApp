@@ -58,9 +58,7 @@ public class ActivitiesController : ControllerBase
             .FirstOrDefaultAsync();
 
         if (activity == null)
-        {
             return NotFound(new { message = "Activity not found" });
-        }
 
         return Ok(activity);
     }
